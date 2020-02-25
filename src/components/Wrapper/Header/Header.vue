@@ -1,6 +1,6 @@
 <template>
-  <div class='wrapper'>
-    <p>This is wrapper</p>
+  <div class='header'>
+    This is Header
   </div>
 </template>
 

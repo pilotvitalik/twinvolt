@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Wrapper from '@/components/Wrapper.vue';
+import Wrapper from './components/Wrapper/Wrapper.vue';
 
 export default {
   name: 'App',
