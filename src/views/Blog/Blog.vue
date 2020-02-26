@@ -1,6 +1,6 @@
 <template>
-  <div class='common'>
-    <router-view></router-view>
+  <div class='blog'>
+    This is Blog
   </div>
 </template>
 

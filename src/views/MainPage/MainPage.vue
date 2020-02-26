@@ -1,6 +1,6 @@
 <template>
-  <div class='common'>
-    <router-view></router-view>
+  <div class='mainPage'>
+    This is Main Page
   </div>
 </template>
 

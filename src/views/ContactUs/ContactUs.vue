@@ -1,6 +1,6 @@
 <template>
-  <div class='common'>
-    <router-view></router-view>
+  <div class='contactUs'>
+    This is Contact us
   </div>
 </template>
 
